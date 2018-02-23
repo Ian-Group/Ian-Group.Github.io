@@ -1,0 +1,21 @@
+header > ul > li {
+	display: inline;
+	padding: 5px;
+}
+header {
+	background: #d6d6d6;
+	font-family: "Comic Sans MS", sans-serif;
+}
+footer {
+	background: #d6d6d6;
+	font-family: "Comic Sans MS", sans-serif;	
+}
+p {
+	padding: 45px;
+}
+header > h1 {
+	margin: 45px;
+}
+footer {
+	padding-left:45px;
+}
